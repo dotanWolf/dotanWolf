@@ -28,5 +28,5 @@ Interactive WebGL 3D puzzle visualizer and solver built with React Three Fiber, 
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=dotanWolf&show_icons=true&theme=dark&hide_border=false" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=dotanWolf&show_icons=true&theme=dark&hide_border=false" alt="GitHub Stats" />
 </p>
