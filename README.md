@@ -13,13 +13,10 @@
 
 ## 🚀 Top Projects
 
-### 1. [Cloud Storage & File Server](https://github.com/YOUR_GITHUB_USERNAME/repo-name)
+### 1. [Cloud Storage & File Server](https://github.com/dotanWolf/bestProject)
 Full-stack Google Drive-style file synchronization platform with a React frontend, Node.js API gateway, C++ storage backend, and Docker containerization.
 
-### 2. [Parallel & Distributed Algorithms Simulation](https://github.com/YOUR_GITHUB_USERNAME/repo-name)
-C and OpenMP high-performance compute simulation focused on parallel thread scheduling, task optimization, and multi-core CPU benchmarking.
-
-### 3. [Interactive 3D Rubik's Cube Solver](https://github.com/YOUR_GITHUB_USERNAME/repo-name)
+### 2. [Interactive 3D Rubik's Cube Solver](https://github.com/dotanWolf/RubiksCube)
 Interactive WebGL 3D puzzle visualizer and solver built with React Three Fiber, Three.js, and heuristic graph search algorithms.
 
 ---
