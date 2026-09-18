@@ -17,8 +17,7 @@
 Full-stack Google Drive-style file synchronization platform with a React frontend, Node.js API gateway, C++ storage backend, and Docker containerization.
 
 ### 2. [Interactive 3D Rubik's Cube Solver](https://github.com/dotanWolf/RubiksCube)
-Interactive WebGL 3D puzzle visualizer and solver built with React Three Fiber, Three.js, and heuristic graph search algorithms.
-
+Interactive 3D Rubik's Cube solver — a React Three Fiber cube animated live from a native C++ two-phase IDA* solving engine, connected via a Node.js/Express API
 ---
 
 ### 📊 GitHub Stats
