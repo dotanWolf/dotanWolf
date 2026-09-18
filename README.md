@@ -14,7 +14,7 @@
 ## 🚀 Top Projects
 
 ### 1. [Cloud Storage & File Server](https://github.com/dotanWolf/bestProject/tree/Ex4)
-Full-stack Google Drive-style file synchronization platform with a React frontend, Node.js API gateway, C++ storage backend, and Docker containerization.
+**Full-stack Google Drive-style file synchronization platform with a React frontend, Node.js API gateway, C++ storage backend, and Docker containerization.**
 
 ### 2. [Interactive 3D Rubik's Cube Solver](https://github.com/dotanWolf/RubiksCube)
 Interactive 3D Rubik's Cube solver — a React Three Fiber cube animated live from a native C++ two-phase IDA* solving engine, connected via a Node.js/Express API
